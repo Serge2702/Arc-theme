@@ -35,18 +35,15 @@ sed -i 's/#fdfdfd/#ffffff/gI' assets*.svg
 sed -i 's/#4DADD4/#83A598/gI' assets*.svg
 sed -i 's/#5294E2/#ebdbb2/gI' assets*.svg
 sed -i 's/#73d216/#B8BB26/gI' assets*.svg
-
 sed -i 's/#15171c/#1d2021/gI' assets*.svg
 sed -i 's/#1a1a1a/#1d2021/gI' assets*.svg
 sed -i 's/#222529/#1d2021/gI' assets*.svg
 sed -i 's/#262934/#282828/gI' assets*.svg
-
 sed -i 's/#2b303b/#32302f/gI' assets*.svg
 sed -i 's/#2d323d/#32302f/gI' assets*.svg
 sed -i 's/#2d323f/#32302f/gI' assets*.svg
 sed -i 's/#353a47/#32302f/gI' assets*.svg
 sed -i 's/#383c4a/#3c3836/gI' assets*.svg
-
 sed -i 's/#3b3c3e/#3c3836/gI' assets*.svg
 sed -i 's/#434343/#3c3836/gI' assets*.svg
 sed -i 's/#525d76/#504945/gI' assets*.svg
@@ -56,7 +53,6 @@ sed -i 's/#5f6578/#7c6f64/gI' assets*.svg
 sed -i 's/#5f697f/#7c6f64/gI' assets*.svg
 sed -i 's/#666666/#665c54/gI' assets*.svg
 sed -i 's/#7a7f8b/#7c6f64/gI' assets*.svg
-
 sed -i 's/#999999/#BDAE93/gI' assets*.svg
 sed -i 's/#b9bcc2/#D5C4A1/gI' assets*.svg
 sed -i 's/#bebebe/#D5C4A1/gI' assets*.svg
@@ -65,3 +61,42 @@ sed -i 's/#c4c7cc/#D5C4A1/gI' assets*.svg
 sed -i 's/#eeeeee/#FDF4C1/gI' assets*.svg
 sed -i 's/#f8f8f9/#ffffff/gI' assets*.svg
 sed -i 's/#f9fafb/#ffffff/gI' assets*.svg
+
+sed -i 's/#232428/#282828/gI' assets*.svg
+sed -i 's/#252932/#282828/gI' assets*.svg
+sed -i 's/#262932/#282828/gI' assets*.svg
+sed -i 's/#262933/#282828/gI' assets*.svg
+sed -i 's/#272a30/#32302f/gI' assets*.svg
+sed -i 's/#282b36/#32302f/gI' assets*.svg
+sed -i 's/#2b2e39/#32302f/gI' assets*.svg
+sed -i 's/#2d3036/#32302f/gI' assets*.svg
+sed -i 's/#2d303b/#32302f/gI' assets*.svg
+sed -i 's/#2d3232/#32302f/gI' assets*.svg
+sed -i 's/#2e3340/#3c3836/gI' assets*.svg
+sed -i 's/#303440/#3c3836/gI' assets*.svg
+sed -i 's/#313541/#3c3836/gI' assets*.svg
+sed -i 's/#383c45/#3c3836/gI' assets*.svg
+sed -i 's/#393f3f/#3c3836/gI' assets*.svg
+sed -i 's/#39404d/#3c3836/gI' assets*.svg
+sed -i 's/#3e434f/#3c3836/gI' assets*.svg
+sed -i 's/#3e4351/#3c3836/gI' assets*.svg
+sed -i 's/#444852/#504945/gI' assets*.svg
+sed -i 's/#444a58/#504945/gI' assets*.svg
+sed -i 's/#454c4c/#504945/gI' assets*.svg
+sed -i 's/#4e4eff/#076678/gI' assets*.svg
+sed -i 's/#505666/#665c54/gI' assets*.svg
+sed -i 's/#5252ff/#076678/gI' assets*.svg
+sed -i 's/#52555e/#665c54/gI' assets*.svg
+sed -i 's/#525762/#665c54/gI' assets*.svg
+sed -i 's/#545860/#665c54/gI' assets*.svg
+sed -i 's/#66a1dc/#458588/gI' assets*.svg
+sed -i 's/#767b87/#7c6f64/gI' assets*.svg
+sed -i 's/#7a7f8a/#7c6f64/gI' assets*.svg
+sed -i 's/#8f939d/#928374/gI' assets*.svg
+sed -i 's/#9398a2/#928374/gI' assets*.svg
+sed -i 's/#ad4242/#9D0006/gI' assets*.svg
+sed -i 's/#c7cacf/#bdae93/gI' assets*.svg
+sed -i 's/#f7ef45/#FABD2F/gI' assets*.svg
+sed -i 's/#ff1111/#CC241D/gI' assets*.svg
+sed -i 's/#ff1616/#CC241D/gI' assets*.svg
+sed -i 's/#ff2121/#CC241D/gI' assets*.svg
