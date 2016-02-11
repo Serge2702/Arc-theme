@@ -43,7 +43,7 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#665c54"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
@@ -136,7 +136,7 @@
                  height="13.99999"
                  width="13.999989"
                  id="rect5147-9-1-5-7-6-7-4"
-                 style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#5294e2;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+                 style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ebdbb2;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
                  ry="1.9999917" />
             </g>
           </g>
@@ -150,7 +150,7 @@
         <g
            id="g3981-6-4-97"
            transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,729.95475,305.0582)"
-           style="opacity:0.85;fill:#1a1a1a;fill-opacity:1" />
+           style="opacity:0.85;fill:#1d2021;fill-opacity:1" />
         <g
            id="g4049-2-5"
            transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,727.94436,295.31123)">
@@ -160,7 +160,7 @@
             <g
                id="g3981-0-8"
                transform="translate(-3,-4.9999826)"
-               style="fill:#3b3c3e;fill-opacity:1">
+               style="fill:#3c3836;fill-opacity:1">
               <rect
                  ry="0.66666085"
                  rx="0.66666085"
@@ -169,7 +169,7 @@
                  height="1.9999826"
                  width="5"
                  id="rect3977-39-90"
-                 style="fill:#2b303b;fill-opacity:1;stroke:none" />
+                 style="fill:#32302f;fill-opacity:1;stroke:none" />
               <rect
                  ry="0"
                  y="1027.3622"
@@ -177,10 +177,10 @@
                  height="7.9999828"
                  width="2"
                  id="rect3979-7-60"
-                 style="fill:#2b303b;fill-opacity:1;stroke:none" />
+                 style="fill:#32302f;fill-opacity:1;stroke:none" />
             </g>
             <rect
-               style="fill:#eeeeee;fill-opacity:0;stroke:none"
+               style="fill:#FDF4C1;fill-opacity:0;stroke:none"
                id="rect4047-81-5"
                width="3"
                height="1"

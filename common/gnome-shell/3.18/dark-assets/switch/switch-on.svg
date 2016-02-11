@@ -74,18 +74,18 @@
       <stop
          id="stop6525"
          offset="0"
-         style="stop-color:#1a1a1a;stop-opacity:1;" />
+         style="stop-color:#1d2021;stop-opacity:1;" />
       <stop
          id="stop6527"
          offset="1"
-         style="stop-color:#1a1a1a;stop-opacity:0;" />
+         style="stop-color:#1d2021;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
        id="linearGradient3938-6">
       <stop
          id="stop3940-4"
          offset="0"
-         style="stop-color:#bebebe;stop-opacity:1;" />
+         style="stop-color:#D5C4A1;stop-opacity:1;" />
       <stop
          id="stop3942-8"
          offset="1"
@@ -95,7 +95,7 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#665c54"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
@@ -168,14 +168,14 @@
              id="g3900-1-87-0"
              transform="translate(0,-1004.3622)">
             <rect
-               style="display:inline;opacity:0;fill:#434343;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               style="display:inline;opacity:0;fill:#3c3836;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
                id="rect5465-3-3-3"
                width="52"
                height="24"
                x="0"
                y="1029.3622" />
             <rect
-               style="fill:#5294e2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#ebdbb2;fill-opacity:1;fill-rule:nonzero;stroke:none"
                id="rect2987-0-8-7"
                width="50"
                height="20"
@@ -184,7 +184,7 @@
                ry="11"
                rx="11" />
             <circle
-               style="fill:#353a47;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#32302f;fill-opacity:1;fill-rule:nonzero;stroke:none"
                id="path3759-0-75"
                cx="41"
                cy="1041.3622"
@@ -204,7 +204,7 @@
            height="1.9999826"
            width="5"
            id="rect3977-39-2-13"
-           style="display:inline;opacity:1;fill:#353a47;fill-opacity:1;stroke:none" />
+           style="display:inline;opacity:1;fill:#32302f;fill-opacity:1;stroke:none" />
         <rect
            transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
            ry="0"
@@ -213,7 +213,7 @@
            height="7.9999828"
            width="2"
            id="rect3979-7-0-65"
-           style="display:inline;opacity:1;fill:#353a47;fill-opacity:1;stroke:none" />
+           style="display:inline;opacity:1;fill:#32302f;fill-opacity:1;stroke:none" />
       </g>
     </g>
   </g>
