@@ -22,7 +22,7 @@ $warning_color: #FE8019;
 $error_color: #CC241D;
 $success_color: #B8BB26;
 $destructive_color: #FB4934;
-$suggested_color: #83A598;
+$suggested_color: #ebdbb2;
 
 //insensitive state derived colors
 $insensitive_fg_color: if($variant == 'light', transparentize($fg_color, 0.45), transparentize($fg_color, 0.55));
