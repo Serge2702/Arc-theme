@@ -115,13 +115,13 @@ StScrollBar {
     StScrollBar StButton#vhandle:hover, StScrollBar StButton#hhandle:hover {
       background-color: #dedad5; }
     StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
-      background-color: #282828; }
+      background-color: #ebdbb2; }
 
 .slider {
   -slider-height: 4px;
   -slider-background-color: #D5C4A1;
   -slider-border-color: transparent;
-  -slider-active-background-color: #282828;
+  -slider-active-background-color: #ebdbb2;
   -slider-active-border-color: transparent;
   -slider-border-width: 0;
   -slider-handle-radius: 4px;
